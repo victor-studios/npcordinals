@@ -1,0 +1,43 @@
+/* Add your custom styles here */
+
+h1 {
+  text-align: center;
+}
+
+
+#filters {
+  margin: 20px 0;
+}
+
+#filters h2 {
+  margin-bottom: 10px;
+}
+
+#filters > div {
+  margin-bottom: 10px;
+}
+
+#gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  width: 23%;
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 0px;
+  image-rendering: pixelated;
+}
+
+.card h3, .card p {
+  margin: 5px 0;
+}
