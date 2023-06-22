@@ -1,2 +1,0 @@
-# npcordinals
-# npcordinals
